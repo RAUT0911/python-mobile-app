@@ -9,7 +9,7 @@ from kivy.uix.button import Button
 
 class PrashantGrid(Gridlayout):
    def __init__(self,**kwargs):
-   super(Prasahnt,self).__init__()
+   super(Prashant,self).__init__()
    self.cols=2
   
    self.add_widget(Label(text="Students Name: "))
