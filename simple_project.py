@@ -1,8 +1,8 @@
 # python-mobile-app
 """ Creating basic layout using Gredlayout , label , coloumn , app, widget and Library in KIVY with the help of pycharm editor devlope a simple input-output ,details,button."""
-import livy 
-from kiy.app import App
-from kivy.uix.gridlyout import Gridlayout
+import kivy 
+from kivy.app import App
+from kivy.uix.gridlayout import Gridlayout
 from kivy.uix.label import Label
 from kivy.uix.textinput import Textinput 
 from kivy.uix.button import Button
